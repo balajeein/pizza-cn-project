@@ -1,0 +1,2 @@
+# <IP>         <names>                                              -> /opt/homebrew/etc/team.hosts
+10.7.13.223    app.pizza.test api.pizza.test
